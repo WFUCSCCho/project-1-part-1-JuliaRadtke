@@ -96,6 +96,7 @@ Representation 2: Selected Atoms: chain B, Coloring Method: ColorID (4), and Dra
 
 VMD Rendered Protein (PDB ID: 2KWF) Image here:
 
+![Screenshot 2024-09-26 134046](https://github.com/user-attachments/assets/9dceea45-609e-4bdf-97c8-4715f0316ab1)
 
 VMD Rendered RNA (PDB ID: 1KF1) Image here:
 
